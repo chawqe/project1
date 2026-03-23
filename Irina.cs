@@ -8,5 +8,6 @@ namespace ConsoleApp18
 {
     internal class Irina
     {
+        int Toshinori;
     }
 }
