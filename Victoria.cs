@@ -8,5 +8,6 @@ namespace ConsoleApp18
 {
     internal class Victoria
     {
+        int x;
     }
 }
