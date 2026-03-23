@@ -9,5 +9,6 @@ namespace ConsoleApp18
     internal class alena
     {
         int ads;
+        string lalalalalalalalalalalalala;
     }
 }
