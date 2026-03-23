@@ -8,5 +8,9 @@ namespace ConsoleApp18
 {
     internal class DANON
     {
+        static void Main(string[] args)
+        {
+            int gg = 5;
+        }
     }
 }
