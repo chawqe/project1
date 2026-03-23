@@ -8,6 +8,6 @@ namespace ConsoleApp18
 {
     internal class Arina
     {
-
+        int aaa;
     }
 }
