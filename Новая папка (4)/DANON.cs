@@ -8,5 +8,8 @@ namespace danon
 {
     internal class DANON
     {
+        static void Main(string[] args)
+        {
+        }
     }
 }

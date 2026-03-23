@@ -1,0 +1,7 @@
+C:\Users\studentcoll\Desktop\project1\Новая папка (4)\bin\Debug\danon.exe.config
+C:\Users\studentcoll\Desktop\project1\Новая папка (4)\bin\Debug\danon.exe
+C:\Users\studentcoll\Desktop\project1\Новая папка (4)\bin\Debug\danon.pdb
+C:\Users\studentcoll\Desktop\project1\Новая папка (4)\obj\Debug\danon.csproj.AssemblyReference.cache
+C:\Users\studentcoll\Desktop\project1\Новая папка (4)\obj\Debug\danon.csproj.CoreCompileInputs.cache
+C:\Users\studentcoll\Desktop\project1\Новая папка (4)\obj\Debug\danon.exe
+C:\Users\studentcoll\Desktop\project1\Новая папка (4)\obj\Debug\danon.pdb
